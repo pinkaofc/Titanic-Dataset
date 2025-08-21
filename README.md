@@ -80,5 +80,3 @@ jupyter notebook Titanic_Pipeline.ipynb
 ## 👩‍💻 Author
 
 Developed by pinka
-
-✨ Do you want me to also create a **requirements.txt** file for your project (so anyone can install the exact libraries you used)?
